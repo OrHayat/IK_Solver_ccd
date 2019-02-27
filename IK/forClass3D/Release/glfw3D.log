@@ -1,0 +1,13 @@
+﻿Build started 26/10/2017 15:58:39.
+     1>Project "C:\Users\tamir\Documents\Visual Studio 2012\Projects\glfw3D\glfw3D\glfw3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt display.cpp main.cpp
+         display.cpp
+     1>c:\users\tamir\documents\visual studio 2012\projects\glfw3d\glfw3d\display.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+         main.cpp
+     1>c:\users\tamir\documents\visual studio 2012\projects\glfw3d\glfw3d\display.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+     1>Done Building Project "C:\Users\tamir\Documents\Visual Studio 2012\Projects\glfw3D\glfw3D\glfw3D.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.98

@@ -1,0 +1,7 @@
+﻿  mesh.cpp
+  obj_loader.cpp
+g:\גרפיקה\312211162_312198377\engine\obj_loader.cpp(401): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Generating Code...
+  stb_image.c
+  engine.vcxproj -> G:\גרפיקה\312211162_312198377\Debug\engine.lib

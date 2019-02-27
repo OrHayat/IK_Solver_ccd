@@ -1,0 +1,31 @@
+﻿  Cube.cpp
+  display.cpp
+  main.cpp
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(227): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(250): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(274): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(303): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(349): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(382): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(383): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+g:\גרפיקה\312211162_312198377\forclass3d\main.cpp(427): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Move.cpp
+  scene.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32sd.lib(glew.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'glew32sd.lib(glew.obj)' or at 'G:\גרפיקה\312211162_312198377\Debug\vc110.pdb'; linking object as if no debug info
+  forClass3D.vcxproj -> G:\גרפיקה\312211162_312198377\Debug\forClass3D.exe
